@@ -26,8 +26,13 @@ This project is an Excel-based Movie Data Analysis Dashboard created to analyze 
 
 The dashboard provides an interactive view of movie data using KPIs, charts, and slicers.
 
+## Dashboard Preview
+
+![Movie Dashboard](Movie%20Dashboard%20Screenshot.png)
+
 ## Project File
 
 The Excel dashboard is available in this repository:
 
 **Movie Data Analysis Dashboard.xlsx**
+

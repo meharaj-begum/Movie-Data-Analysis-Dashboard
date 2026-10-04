@@ -1,4 +1,3 @@
-Movie Data Analysis Dashboard README
 # Movie Data Analysis Dashboard
 
 ## Project Overview
